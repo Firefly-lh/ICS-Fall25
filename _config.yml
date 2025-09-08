@@ -1,4 +1,5 @@
 title: ICS Seminar
+tagline: Seminar on ICS 
 description: Course Website for ICS Seminar
 author: Firefly
 baseurl: '/ICS-Fall25'
@@ -11,6 +12,7 @@ color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+footer_content:
 aux_links:
   "Repository on GitHub":
   - "https://github.com/Firefly-lh/ICS-Fall25"
