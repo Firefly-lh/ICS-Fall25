@@ -7,7 +7,7 @@ Dec 22
   : **read**{: .label .label-green} Ch12.4
 
 Dec 24
-: **seminar**{: .label .label-purple} Week 15
+: **seminar**{: .label .label-purple} Week 16
   : **review**{: .label .label-yellow} 28, 29
 
 Dec 25
