@@ -7,7 +7,7 @@ nav_order: 2
 # Recommended Textbook
 
 [Computer Systems: A Programmer’s Perspective](/ICS-Fall25/assets/CSAPP-第三版-英文版.pdf)  
-by Randal E. Bryant and David R. O’Hallaron, [Chinese Version](/ICS-Fall25/assets/CSAPP-第三版.pdf)
+by Randal E. Bryant and David R. O’Hallaron, [Chinese Version](/ICS-Fall25/assets/CSAPP-第三版-中文版.pdf)
 
 **Supplementary Materials:**
 
@@ -30,6 +30,8 @@ This [Learning List](/ICS-Fall25/assets/Computer_Systems_Learning_Resources.pdf)
 This [Website](https://csdiy.wiki/) is a self-learning guide to computer science. Special thanks to [Yinmin Zhong](https://yinminzhong.com/)!
 
 This [document](/ICS-Fall25/assets/gdbnotes-x86-64.pdf) is a summary of GDB commands for x86-64 systems.
+
+This [document](/ICS-Fall25/assets/pipeline.pdf) is a summary of pipeline.
 
 # C Tutorial
 
