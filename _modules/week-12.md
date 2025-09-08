@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Nov 24
-: **lecture**{: .label .label-blue} [Virtual Memory: Concepts](/ics-fa24/assets/lec/19-VM1.pdf)
+: **lecture**{: .label .label-blue} [Virtual Memory: Concepts](/ICS-Fall25/assets/lec/19-VM1.pdf)
   : **read**{: .label .label-green} Ch9.1 - Ch9.6
 
 Nov 26

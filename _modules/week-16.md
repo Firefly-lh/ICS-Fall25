@@ -8,7 +8,7 @@ Dec 22
 
 Dec 24
 : **seminar**{: .label .label-purple} Week 15
-  : **review**{: .label .label-yellow} 27, 28
+  : **review**{: .label .label-yellow} 28, 29
 
 Dec 25
 : **lecture**{: .label .label-blue} [Synchronization: Advanced](/ICS-Fall25/assets/lec/26-SYNC2.pdf)
