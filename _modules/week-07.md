@@ -9,7 +9,6 @@ Oct 20
 
 Oct 22
 : **seminar**{: .label .label-purple}Week 7
-  : **review**{: .label .label-yellow}10, 11
 
 Oct 23
 : **lecture**{: .label .label-blue} [Processor Arch: Pipelined](/ICS-Fall25/assets/lec/11-Processor Arch-Pipelined.pdf)

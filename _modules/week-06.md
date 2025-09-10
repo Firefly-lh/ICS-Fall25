@@ -7,7 +7,6 @@ Oct 13
 
 Oct 15
 : **seminar**{: .label .label-purple} Week 6
-  : **review**{: .label .label-yellow} 06, 07, 08
 
 Oct 16
 : **lecture**{: .label .label-blue} [Processor Arch:ISA&Logic](/ICS-Fall25/assets/lec/09-Processor Arch-ISA&Logic.pdf)

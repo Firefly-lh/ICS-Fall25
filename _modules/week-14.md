@@ -8,7 +8,6 @@ Dec 8
 
 Dec 10
 : **seminar**{: .label .label-purple} Week 14
-  : **review**{: .label .label-yellow} 24, 25
 
 Dec 11
 : **lecture**{: .label .label-blue} [Network Programming II](/ICS-Fall25/assets/lec/23-netprog.pdf)

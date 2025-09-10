@@ -8,7 +8,6 @@ Nov 10
 
 Nov 12
 : **seminar**{: .label .label-purple} Week 10
-  : **review**{: .label .label-yellow} 16, 17
 
 Nov 13
 : **lecture**{: .label .label-blue} [ECF: Signals & Nonlocal Jumps](/ICS-Fall25/assets/lec/17-ECF2.pdf)

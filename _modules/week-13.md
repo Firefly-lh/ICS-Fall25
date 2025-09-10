@@ -8,7 +8,6 @@ Dec 1
 
 Dec 3
 : **seminar**{: .label .label-purple} Week 13
-  : **review**{: .label .label-yellow} 22, 23
 
 Dec 4
 : **lecture**{: .label .label-blue} [Dynamic Memory Allocation](/ICS-Fall25/assets/lec/21-DMM.pdf)

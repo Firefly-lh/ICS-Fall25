@@ -8,7 +8,6 @@ Sep 15
 
 Sep 17
 : **seminar**{: .label .label-purple} Week 2
-  : **review**{: .label .label-yellow} 02, 03
 
 Sep 18
 : **lecture**{: .label .label-blue} [Machine Prog: Basics](/ICS-Fall25/assets/lec/04-machine-basics.pdf)

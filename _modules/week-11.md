@@ -7,7 +7,6 @@ Nov 17
 
 Nov 19
 : **seminar**{: .label .label-purple} Week 11
-  : **review**{: .label .label-yellow} 18, 19
 
 Nov 20
 : **lecture**{: .label .label-blue} [System Level I/O](/ICS-Fall25/assets/lec/18-SysIO.pdf)

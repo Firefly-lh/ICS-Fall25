@@ -25,6 +25,8 @@ This [website](https://dreamanddead.github.io/CSAPP-3e-Solutions/) contains refe
 
 # Supplementary Learning Materials
 
+This [repository](https://github.com/ZangXuanyi/getting-started-handout) contains lots of knowledge related to computer basics. Special thanks to [Xuanyi Zang](https://github.com/ZangXuanyi)
+
 This [Learning List](/ICS-Fall25/assets/Computer_Systems_Learning_Resources.pdf) is a great summary of the recommended materials for learning computer systems. Special thanks to Zhenbang You.
 
 This [Website](https://csdiy.wiki/) is a self-learning guide to computer science. Special thanks to [Yinmin Zhong](https://yinminzhong.com/)!
@@ -39,20 +41,20 @@ This [document](/ICS-Fall25/assets/pipeline.pdf) is a summary of pipeline.
 
 # Exams and Solutions
 
-| Term  |                                                                           Midterm                                                                            |                                                   Final                                                    |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| fa24  | [pdf](/ICS-Fall25/assets/exam/pdf/2024期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2024期中.pdf) [corrections](/ICS-Fall25/assets/exam/sol/2024期中-勘误.pdf) |      [pdf](/ICS-Fall25/assets/exam/pdf/2024期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2024期末.pdf)       |
-| fa23  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2023期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2023期中.pdf)                                |                                                                                                            |
-| fa22  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2022期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2022期中.pdf)                                |      [pdf](/ICS-Fall25/assets/exam/pdf/2022期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2022期末.pdf)       |
-| fa21  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2021期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2021期中.pdf)                                |      [pdf](/ICS-Fall25/assets/exam/pdf/2021期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2021期末.zip)       |
+| Term  |                                                                           Midterm                                                                            |                                              Final                                              |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| fa24  | [pdf](/ICS-Fall25/assets/exam/pdf/2024期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2024期中.pdf) [corrections](/ICS-Fall25/assets/exam/sol/2024期中-勘误.pdf) | [pdf](/ICS-Fall25/assets/exam/pdf/2024期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2024期末.pdf) |
+| fa23  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2023期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2023期中.pdf)                                |                                                                                                 |
+| fa22  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2022期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2022期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2022期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2022期末.pdf) |
+| fa21  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2021期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2021期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2021期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2021期末.zip) |
 | fa20  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2020期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2020期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2020期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2020期末.pdf) |
 | fa19  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2019期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2019期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2019期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2019期末.pdf) |
-| fa18  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2018期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2018期中.pdf)                                |      [pdf](/ICS-Fall25/assets/exam/pdf/2018期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2018期末.pdf)       |
-| fa17  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2017期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2017期中.pdf)                                |                              [pdf](/ICS-Fall25/assets/exam/pdf/2017期末.pdf)                               |
-| fa16  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2016期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2016期中.pdf)                                |      [pdf](/ICS-Fall25/assets/exam/pdf/2016期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2016期末.pdf)       |
-| fa15  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2015期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2015期中.pdf)                                |      [pdf](/ICS-Fall25/assets/exam/pdf/2015期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2015期末.pdf)       |
-| fa14  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2014期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2014期中.pdf)                                |       [pdf](/ICS-Fall25/assets/exam/pdf/14期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2014期末.pdf)        |
-| fa13  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2013期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2013期中.pdf)                                |       [pdf](/ICS-Fall25/assets/exam/pdf/13期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2013期末.pdf)        |
+| fa18  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2018期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2018期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2018期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2018期末.pdf) |
+| fa17  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2017期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2017期中.pdf)                                |                         [pdf](/ICS-Fall25/assets/exam/pdf/2017期末.pdf)                         |
+| fa16  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2016期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2016期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2016期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2016期末.pdf) |
+| fa15  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2015期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2015期中.pdf)                                | [pdf](/ICS-Fall25/assets/exam/pdf/2015期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2015期末.pdf) |
+| fa14  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2014期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2014期中.pdf)                                |  [pdf](/ICS-Fall25/assets/exam/pdf/14期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2014期末.pdf)  |
+| fa13  |                               [pdf](/ICS-Fall25/assets/exam/pdf/2013期中.pdf) [sol](/ICS-Fall25/assets/exam/sol/2013期中.pdf)                                |  [pdf](/ICS-Fall25/assets/exam/pdf/13期末.pdf) [sol](/ICS-Fall25/assets/exam/sol/2013期末.pdf)  |
 
 [Here](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU/blob/main/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E6%9C%9F%E6%9C%AB%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8B%98%E8%AF%AF%E3%80%81%E8%AF%A6%E8%A7%A3%20by%20Arthals.pdf) are corrections to these exams written by **Arthals**.
 

@@ -8,7 +8,6 @@ Oct 27
 
 Oct 29
 : **seminar**{: .label .label-purple} Week 8
-  : **review**{: .label .label-yellow} 12, 13
 
 Oct 30
 : **lecture**{: .label .label-blue} [Cache Memories](/ICS-Fall25/assets/lec/13-cache-memories.pdf)

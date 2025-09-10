@@ -7,7 +7,6 @@ Dec 15
 
 Dec 17
 : **seminar**{: .label .label-purple} Week 15
-  : **review**{: .label .label-yellow} 26, 27
 
 Dec 18
 : **lecture**{: .label .label-blue} [Concurrent Programming](/ICS-Fall25/assets/lec/24-CONC.pdf)

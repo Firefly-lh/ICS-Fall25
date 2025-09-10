@@ -8,7 +8,6 @@ Sep 22
 
 Sep 24
 : **seminar**{: .label .label-purple} Week 3
-  : **review**{: .label .label-yellow} 04, 05
 
 Sep 25
 : **lecture**{: .label .label-blue}[Machine Prog: Procedures](/ICS-Fall25/assets/lec/06-machine-procedures.pdf)

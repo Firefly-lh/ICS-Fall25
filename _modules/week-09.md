@@ -8,7 +8,6 @@ Nov 3
 
 Nov 5
 : **seminar**{: .label .label-purple} Week 9
-  : **review**{: .label .label-yellow} 14, 15
 
 Nov 6
 : **lecture**{: .label .label-blue} [Linking](/ICS-Fall25/assets/lec/15-linking.pdf)

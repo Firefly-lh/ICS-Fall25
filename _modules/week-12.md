@@ -8,7 +8,6 @@ Nov 24
 
 Nov 26
 : **seminar**{: .label .label-purple} Week 12
-  : **review**{: .label .label-yellow} 20, 21
 
 Nov 27
 : **guest lecture**{: .label .label-blue} 
