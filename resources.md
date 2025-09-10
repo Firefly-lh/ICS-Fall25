@@ -19,13 +19,13 @@ This [repository](https://github.com/zhuozhiyongde/Introduction-to-Computer-Syst
 
 This [repository](https://github.com/vwOvOwv/2024-Fall-ICS-TA) is created by another TA.
 
-This [website](https://www.sunvapor.site/about) contains high-quality ICS notes(written by **SunVapor**)
+This [website](https://www.sunvapor.site/about) contains high-quality ICS notes. (written by **SunVapor**)
 
 This [website](https://dreamanddead.github.io/CSAPP-3e-Solutions/) contains reference answers to the exercises after class in the textbook.
 
 # Supplementary Learning Materials
 
-This [repository](https://github.com/ZangXuanyi/getting-started-handout) contains lots of knowledge related to computer basics. Special thanks to [Xuanyi Zang](https://github.com/ZangXuanyi)
+This [repository](https://github.com/ZangXuanyi/getting-started-handout) contains lots of knowledge related to computer basics. Special thanks to [Xuanyi Zang](https://github.com/ZangXuanyi)!
 
 This [Learning List](/ICS-Fall25/assets/Computer_Systems_Learning_Resources.pdf) is a great summary of the recommended materials for learning computer systems. Special thanks to Zhenbang You.
 
