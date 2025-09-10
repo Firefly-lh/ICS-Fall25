@@ -12,7 +12,8 @@ by Randal E. Bryant and David R. O’Hallaron, [Chinese Version](/ICS-Fall25/ass
 **Supplementary Materials:**
 
 - [程序员的自我修养：链接、装载与库](https://awesome-programming-books.github.io/others/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%EF%BC%9A%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.pdf)
-- 
+  
+
 # Some Helpful Learning Materials
 
 This [repository](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU) is created by TA **Arthals**. It contains a large amount of supplementary materials and methodologies for learning ICS, and [here](https://slide.huh.moe/) are the seminar slides he used when serving as a TA last semester. You can also read his [blogs](https://arthals.ink/) for some lab advice , but **DONT COPY HIS CODE**.
