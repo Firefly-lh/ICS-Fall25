@@ -10,6 +10,7 @@ Peking University, 2025 Fall
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <p>
+<a href="http://162.105.31.232/" class="btn btn-purple">AutoLab</a>
 <a href="https://clab.pku.edu.cn/" class="btn btn-blue">CLab</a>
 <a href="https://missing.lcpu.dev/" class="btn btn-green">Getting Started</a>
 <a href="https://ics.huh.moe/" class="btn btn-blue">Memos</a>
