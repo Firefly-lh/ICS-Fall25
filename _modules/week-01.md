@@ -7,7 +7,7 @@ Sep 8
   : **read**{: .label .label-green} Ch1
 
 Sep 10
-: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/00-Intro/1) [CLab](/ICS-Fall25/assets/CLab.pptx)
+: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/00-Intro) [CLab](/ICS-Fall25/assets/CLab.pptx)
 
 Sep 11
 : **lecture**{: .label .label-blue} [Bits and Bytes/Integars](/ICS-Fall25/assets/lec/02-bits-bytes-ints.pdf)
