@@ -12,5 +12,5 @@ Sep 24
 Sep 25
 : **lecture**{: .label .label-blue}[Machine Prog: Procedures](/ICS-Fall25/assets/lec/06-machine-procedures.pdf)
   : **read**{: .label .label-green} Ch3.7
-: **bomb lab out**{: .label .label-purple}To be released
+: **bomb lab out**{: .label .label-purple}[pdf](/ICS-Fall25/assets/new_lab/bomblab.pdf)
 : **data lab due**{: .label .label-red}
