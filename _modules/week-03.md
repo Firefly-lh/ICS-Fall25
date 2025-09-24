@@ -7,7 +7,8 @@ Sep 22
   : **read**{: .label .label-green} Ch3.6
 
 Sep 24
-: **seminar**{: .label .label-purple} Week 3
+: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/02-Machine_Prog_1/)
+  : **Discussion**{: .label .label-yellow} [4-1](/ICS-Fall25/assets/stu_ppts/4-1_曹思远.pptx) [4-2](/ICS-Fall25/assets/stu_ppts/4-2_张之钰.pptx) [5-1](/ICS-Fall25/assets/stu_ppts/5-1_梅祖铭.pdf) [5-2](/ICS-Fall25/assets/stu_ppts/5-2_张加弛.pdf)
 
 Sep 25
 : **lecture**{: .label .label-blue}[Machine Prog: Procedures](/ICS-Fall25/assets/lec/06-machine-procedures.pdf)

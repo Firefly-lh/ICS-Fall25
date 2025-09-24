@@ -9,7 +9,7 @@ Sep 15
 
 Sep 17
 : **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/01-Data)
-  : **Discussion**{: .label .label-yellow} [1-1](/ICS-Fall25/assets/stu_ppts/沈周_Week2_1.1.pptx) [1-2](/ICS-Fall25/assets/stu_ppts/刘霆煦_Week2_1.2.pdf) [2-1](/ICS-Fall25/assets/stu_ppts/张贤_Week2_2.1.pdf) [2-2](/ICS-Fall25/assets/stu_ppts/王愉博_Week2_2.2.pdf)
+  : **Discussion**{: .label .label-yellow} [2-1](/ICS-Fall25/assets/stu_ppts/2-1_沈周.pptx) [2-2](/ICS-Fall25/assets/stu_ppts/2-2_刘霆煦.pdf) [3-1](/ICS-Fall25/assets/stu_ppts/3-1_张贤.pdf) [3-2](/ICS-Fall25/assets/stu_ppts/3-2_王愉博.pdf)
 
 Sep 18
 : **lecture**{: .label .label-blue} [Machine Prog: Basics](/ICS-Fall25/assets/lec/04-machine-basics.pdf)
