@@ -9,7 +9,7 @@ Oct 20
 : **arch lab out**{: .label .label-purple} [pdf](/ICS-Fall25/assets/new_lab/archlab.pdf) / [handout](/ICS-Fall25/assets/new_lab/archlab-handout.tar)
 
 Oct 22
-: **seminar**{: .label .label-purple}Week 7
+: **seminar**{: .label .label-purple} [9-1](/ICS-Fall25/assets/stu_ppts/9-1_梅祖铭.pdf) [9-2](/ICS-Fall25/assets/stu_ppts/9-2_张之钰.pptx) [10-1](/ICS-Fall25/assets/stu_ppts/10-1_张加弛.pptx) [10-2](/ICS-Fall25/assets/stu_ppts/10-2_陈瑞祺.pdf)
 
 Oct 23
 : **lecture**{: .label .label-blue} [Processor Arch: Pipelined](/ICS-Fall25/assets/lec/11-Processor Arch-Pipelined.pdf)
