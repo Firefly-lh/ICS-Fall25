@@ -5,6 +5,7 @@ title: Week 9
 Nov 3
 : **lecture**{: .label .label-blue} [Program Optimization](/ICS-Fall25/assets/lec/14-optimization.pdf)
   : **read**{: .label .label-green} Ch5
+: **discussion and homework**{: .label .label-blue} [pdf](/ICS-Fall25/assets/discussion/14.pdf)
 
 Nov 5
 : **seminar**{: .label .label-purple} Week 9
