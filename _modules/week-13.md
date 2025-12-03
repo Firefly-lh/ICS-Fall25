@@ -3,8 +3,7 @@ title: Week 13
 ---
 
 Dec 1
-: **lecture**{: .label .label-blue} [Virtual Memory: Systems](/ICS-Fall25/assets/lec/20-VM2.pdf)
-  : **read**{: .label .label-green} Ch9.7 - Ch9.8
+: **guest lecture**{: .label .label-blue} 
 
 Dec 3
 : **seminar**{: .label .label-purple} Week 13
