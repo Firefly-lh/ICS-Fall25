@@ -9,7 +9,7 @@ Nov 24
 
 Nov 26
 : **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/09-System_IO_VM_1/)
-: **discussion**{: .label .label-yellow} [18-1](/ICS-Fall25/assets/stu_ppts/15-1_苏语麒.pptx) [18-2](/ICS-Fall25/assets/stu_ppts/18-2_王嘉怡.pdf) [19-1](/ICS-Fall25/assets/stu_ppts/19-1_祁优扬.pdf) [19-2](/ICS-Fall25/assets/stu_ppts/19-2_曹思远.pptx)
+: **discussion**{: .label .label-yellow} [18-1](/ICS-Fall25/assets/stu_ppts/18-1_苏语麒.pptx) [18-2](/ICS-Fall25/assets/stu_ppts/18-2_王嘉怡.pdf) [19-1](/ICS-Fall25/assets/stu_ppts/19-1_祁优扬.pdf) [19-2](/ICS-Fall25/assets/stu_ppts/19-2_曹思远.pptx)
 
 Nov 27
 : **lecture**{: .label .label-blue} [Virtual Memory: Systems](/ICS-Fall25/assets/lec/20-VM2.pdf)
