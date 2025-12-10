@@ -15,3 +15,4 @@ Nov 27
 : **lecture**{: .label .label-blue} [Virtual Memory: Systems](/ICS-Fall25/assets/lec/20-VM2.pdf)
   : **read**{: .label .label-green} Ch9.7 - Ch9.8
 : **discussion and homework**{: .label .label-blue} [pdf](/ICS-Fall25/assets/discussion/20.pdf)
+: **tsh lab due**{: .label .label-red}

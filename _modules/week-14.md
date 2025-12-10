@@ -3,8 +3,9 @@ title: Week 14
 ---
 
 Dec 8
-: **lecture**{: .label .label-blue} [Network Programming I](/ICS-Fall25/assets/lec/23-netprog.pdf)
+: **lecture**{: .label .label-blue} [Network Programming I](/ICS-Fall25/assets/lec/22-network.pdf)
   : **read**{: .label .label-green} Ch11.1 - Ch11.3
+: **discussion and homework**{: .label .label-blue} [pdf](/ICS-Fall25/assets/discussion/22.pdf)
 
 Dec 10
 : **seminar**{: .label .label-purple} Week 14
