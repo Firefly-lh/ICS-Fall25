@@ -3,7 +3,7 @@ title: Week 15
 ---
 
 Dec 15
-: **lab exam**{: .label .label-red}
+: **lab exam**{: .label .label-red} [pdf](/ICS-Fall25/assets/exam/pdf/2025Lab测试.pdf)
 
 Dec 17
 : **seminar**{: .label .label-purple} Week 15

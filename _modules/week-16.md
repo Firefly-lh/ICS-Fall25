@@ -12,3 +12,4 @@ Dec 24
 Dec 25
 : **lecture**{: .label .label-blue} [Synchronization: Advanced](/ICS-Fall25/assets/lec/26-SYNC2.pdf)
   : **read**{: .label .label-green} Ch12.5 - Ch12.7
+: **proxy lab due**{: .label .label-red}
