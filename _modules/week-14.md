@@ -8,7 +8,7 @@ Dec 8
 : **discussion and homework**{: .label .label-blue} [pdf](/ICS-Fall25/assets/discussion/22.pdf)
 
 Dec 10
-: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/11_DMA/)
+: **seminar**{: .label .label-purple} [TA](https://firefly-lh.github.io/ICS-Fall25-Slides/11-DMA/)
 : **discussion**{: .label .label-yellow} [21-1](/ICS-Fall25/assets/stu_ppts/21-1_张之钰.pptx) [21-2](/ICS-Fall25/assets/stu_ppts/21-2_沈周.pptx)
 
 Dec 11
